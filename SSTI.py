@@ -32,7 +32,7 @@ def index():
                 }
             </style>
         </head>
-        <body style="background-image: url('http://supergym.1337raptors.tech/wp-content/uploads/2023/05/jinja2Foo.jpg');">
+        <body style="background-image: url('INSERT IMAGE URL');">
             <form method="GET">
                 <label for="content">Enter content:</label>
                 <input type="text" name="content" id="content">
